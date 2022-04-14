@@ -1,7 +1,7 @@
 require './solver'
 
 describe Solver do
-  context 'When testing the Solver class' do
+ context 'When testing the Solver class' do
     solver = Solver.new
 
     it 'the method fizzbuzz should return "fizz"' do
